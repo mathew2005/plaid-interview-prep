@@ -10,3 +10,5 @@ def single_worker(jobs, time_limit):
 
     return total_jobs
 
+# time: O(nlogn + n * (m)) n = len of jobs, m = highest num of jobs
+# space: O(n) auxilary space 
