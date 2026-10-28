@@ -1,6 +1,4 @@
-# Token Bucket Request Decisions
-
-Source: https://www.fastprep.io/problems/plaid-token-bucket-rate-limiter
+# [Token Bucket Request Decisions](https://www.fastprep.io/problems/plaid-token-bucket-rate-limiter)
 
 - Topics: Simulation, Queue
 - Difficulty: Medium
@@ -14,4 +12,4 @@ Decide which requests are allowed under a token-bucket rate limit.
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

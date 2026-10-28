@@ -1,6 +1,4 @@
-# Bounded Token-Bucket Request Queue
-
-Source: https://www.fastprep.io/problems/plaid-bounded-token-bucket-request-queue
+# [Bounded Token-Bucket Request Queue](https://www.fastprep.io/problems/plaid-bounded-token-bucket-request-queue)
 
 - Topics: Array, Queue, Simulation
 - Difficulty: Medium
@@ -14,4 +12,4 @@ Simulate a bounded token-bucket queue for incoming requests.
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

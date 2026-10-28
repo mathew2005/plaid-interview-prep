@@ -1,6 +1,4 @@
-# Automation Pipeline, Part 1: Single Worker
-
-Source: https://www.fastprep.io/problems/plaid-automation-pipeline-part-1
+# [Automation Pipeline, Part 1: Single Worker](https://www.fastprep.io/problems/plaid-automation-pipeline-part-1)
 
 - Topics: Array, Math, Simulation
 - Difficulty: Easy
@@ -14,4 +12,4 @@ Simulate an automation pipeline run by a single worker.
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

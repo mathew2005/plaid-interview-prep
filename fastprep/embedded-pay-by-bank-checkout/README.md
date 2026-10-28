@@ -1,6 +1,4 @@
-# Design an Embedded Pay-by-Bank Checkout
-
-Source: https://www.fastprep.io/system-design/embedded-pay-by-bank-checkout
+# [Design an Embedded Pay-by-Bank Checkout](https://www.fastprep.io/system-design/embedded-pay-by-bank-checkout)
 
 - Topics: Payments, Transactions, Consistency, Messaging, Rate Limiting
 - Difficulty: listed as Senior+ on the detail page, no Easy/Medium/Hard label in the row
@@ -14,4 +12,4 @@ Design an embeddable pay-by-bank checkout, covering what to build and how it hol
 
 ## Status
 
-Question only. No design notes yet.
+Question only. No design notes yet. Click the title above for the full question on FastPrep.

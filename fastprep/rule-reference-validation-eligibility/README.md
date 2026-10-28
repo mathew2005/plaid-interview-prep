@@ -1,6 +1,4 @@
-# Rule References: Validity and Eligibility
-
-Source: https://www.fastprep.io/problems/plaid-rule-reference-validation-and-eligibility
+# [Rule References: Validity and Eligibility](https://www.fastprep.io/problems/plaid-rule-reference-validation-and-eligibility)
 
 - Topics: Graph, Hash Table, Breadth-First Search
 - Difficulty: Medium
@@ -14,4 +12,4 @@ Check whether rule references are valid and determine eligibility based on those
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

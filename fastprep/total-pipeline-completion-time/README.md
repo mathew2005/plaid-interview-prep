@@ -1,6 +1,4 @@
-# Total Pipeline Completion Time
-
-Source: https://www.fastprep.io/problems/plaid-total-pipeline-completion-time
+# [Total Pipeline Completion Time](https://www.fastprep.io/problems/plaid-total-pipeline-completion-time)
 
 - Topics: Array, Math, Simulation
 - Difficulty: Easy
@@ -14,4 +12,4 @@ Simulate a pipeline and compute its total completion time.
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

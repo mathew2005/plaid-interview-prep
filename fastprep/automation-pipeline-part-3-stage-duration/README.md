@@ -1,6 +1,4 @@
-# Automation Pipeline, Part 3: Stage Duration
-
-Source: https://www.fastprep.io/problems/plaid-automation-pipeline-part-3
+# [Automation Pipeline, Part 3: Stage Duration](https://www.fastprep.io/problems/plaid-automation-pipeline-part-3)
 
 - Topics: Array, Heap, Greedy
 - Difficulty: Medium
@@ -14,4 +12,4 @@ Extend the automation pipeline simulation to account for stage durations.
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

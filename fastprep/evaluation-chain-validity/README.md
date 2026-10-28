@@ -1,6 +1,4 @@
-# Validate and Resolve Evaluation Chains
-
-Source: https://www.fastprep.io/problems/plaid-evaluation-chain-validity
+# [Validate and Resolve Evaluation Chains](https://www.fastprep.io/problems/plaid-evaluation-chain-validity)
 
 - Topics: Depth-First Search, Graph, Hash Table
 - Difficulty: Medium
@@ -14,4 +12,4 @@ Validate a chain of evaluation rules and resolve their outcomes, using graph tra
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.

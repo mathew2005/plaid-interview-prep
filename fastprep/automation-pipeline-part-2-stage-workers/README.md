@@ -1,6 +1,4 @@
-# Automation Pipeline, Part 2: Stage Workers
-
-Source: https://www.fastprep.io/problems/plaid-automation-pipeline-part-2
+# [Automation Pipeline, Part 2: Stage Workers](https://www.fastprep.io/problems/plaid-automation-pipeline-part-2)
 
 - Topics: Array, Math, Simulation
 - Difficulty: Medium
@@ -14,4 +12,4 @@ Extend the automation pipeline simulation to workers per stage.
 
 ## Status
 
-Question only. No solution code yet.
+Question only. No solution code yet. Click the title above for the full question on FastPrep.
